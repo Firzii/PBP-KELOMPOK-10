@@ -65,7 +65,7 @@
           UMKM<span class="text-blue-600">Mini</span>
         </div>
         <p class="text-gray-600">
-          Platform sederhana untuk memajukan produk UMKM. Belanja mudah, aman, dan langsung dari sumbernya.
+          Platform sederhana untuk memajukan produk UMKM. Belanja mudah, aman, dan langsung dari sumbernyah.
         </p>
       </div>
       <div>
